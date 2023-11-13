@@ -10,11 +10,14 @@ header{
     background-image:url("../img/pattern.png");
     background-color: rgb(72, 72, 218);
     background-size: auto;
-  
+ 
 }
 
 #logo{
-    width: 40%;
-    height: 50%;
-    
+    width: 150px;
+    height: 40px;
+}
+
+.greytext{
+    color: grey;
 }
