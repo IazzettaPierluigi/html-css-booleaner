@@ -21,3 +21,7 @@ header{
 .greytext{
     color: grey;
 }
+
+li{
+    margin-left: 1em;
+}
