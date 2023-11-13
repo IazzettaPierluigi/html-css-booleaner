@@ -9,13 +9,14 @@ header{
     height: 80px;
     background-image:url("../img/pattern.png");
     background-color: rgb(72, 72, 218);
-    background-size: auto;
+    background-size:contain ;
  
 }
 
 #logo{
     width: 150px;
     height: 40px;
+    margin-top: 40px;
 }
 
 .greytext{
@@ -82,4 +83,8 @@ th{
     color: white;
     text-align: center;
     border: 2px solid red;
+}
+
+#sect1{
+    margin: 0 auto;
 }
