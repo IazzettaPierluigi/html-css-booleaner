@@ -9,7 +9,9 @@ header{
     height: 100px;
     background-image:url("../img/pattern.png");
     background-color: rgb(72, 72, 218);
-    background-position: center;
+    ;
+    background-position:center;
+    
 }
 
 main{
@@ -19,7 +21,7 @@ main{
 #logo{
     width: 150px;
     height: 40px;
-    margin-top: 40px;
+    margin-top: 60px;
 }
 
 .greytext{
@@ -28,6 +30,7 @@ main{
 
 a{
     color: rgb(0, 102, 255);
+    text-decoration: none;
 }
 
 li{
@@ -89,6 +92,6 @@ th{
 }
 
 main{
-   margin-left: auto;
-   margin-right: auto
+    width: 50%;
+margin: auto;
 }
