@@ -6,11 +6,14 @@
 
 header{
     width: 100%;
-    height: 80px;
+    height: 100px;
     background-image:url("../img/pattern.png");
     background-color: rgb(72, 72, 218);
-    background-size:contain ;
- 
+    background-position: center;
+}
+
+main{
+    width: 800px;
 }
 
 #logo{
@@ -85,6 +88,7 @@ th{
     border: 2px solid red;
 }
 
-#sect1{
-    margin: 0 auto;
+main{
+   margin-left: auto;
+   margin-right: auto
 }
